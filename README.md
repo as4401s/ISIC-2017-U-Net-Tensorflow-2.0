@@ -5,5 +5,7 @@ Dataset available here -https://challenge.kitware.com/#challenge/583f126bcad3a51
 
 Results- 
 
+Original Image - Ground Truth - Predicted Segmentation
+
 ![](1.jpg)
 ![](2.jpg)
